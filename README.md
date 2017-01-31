@@ -7,12 +7,9 @@
 This is one of my old projects which I've created on 2013. I mean, code isn't perfect :)
 
 ## Example
-```bash
-./Mobile37.exe
-```
-### Input
+#### Input
 Input file is [**first20hours/google-10000-english/20k.txt**](https://github.com/first20hours/google-10000-english/blob/master/20k.txt).
-### Output
+#### Output
 ```
 states:574735
 little:117713

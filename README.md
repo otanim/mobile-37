@@ -15,6 +15,9 @@ This is one of my old projects which I've created on 2013. I mean, code isn't pe
  %f1%.txt %f2%.txt   L33t mobile numbers from %f1%.txt to %f2%.txt
 ```
 
+## Tip
+If you dont use any argument, program will search **input.txt** file in the same directory and l33t mobile numbers to **output.txt**.
+
 ## Example
 #### Input
 Input file is [**first20hours/google-10000-english/20k.txt**](https://github.com/first20hours/google-10000-english/blob/master/20k.txt).
@@ -53,9 +56,6 @@ lilies:111135
 steals:573415
 stalls:574115
 ```
-
-## Tip
-If you dont use any argument, program will search **input.txt** file in the same directory and l33t mobile numbers to **output.txt**.
 
 ##License
 mobile-37 is [licensed under MIT](https://github.com/otanim/mobile-37/blob/master/LICENSE).

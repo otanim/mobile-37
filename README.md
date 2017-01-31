@@ -6,6 +6,15 @@
 ## Note
 This is one of my old projects which I've created on 2013. I mean, code isn't perfect :)
 
+## Usage
+```
+ -?                  Prints this help
+ -q                  Close program after l33t
+ -l%n%               Set mobile numbers %n% length. Default value is 6.
+ %f1%.txt            L33t mobile numbers from %f1%.txt to output.txt
+ %f1%.txt %f2%.txt   L33t mobile numbers from %f1%.txt to %f2%.txt
+```
+
 ## Example
 #### Input
 Input file is [**first20hours/google-10000-english/20k.txt**](https://github.com/first20hours/google-10000-english/blob/master/20k.txt).
@@ -43,15 +52,6 @@ soleil:501311
 lilies:111135
 steals:573415
 stalls:574115
-```
-
-## Usage
-```
- -?                  Prints this help
- -q                  Close program after l33t
- -l%n%               Set mobile numbers %n% length. Default value is 6.
- %f1%.txt            L33t mobile numbers from %f1%.txt to output.txt
- %f1%.txt %f2%.txt   L33t mobile numbers from %f1%.txt to %f2%.txt
 ```
 
 ## Tip
